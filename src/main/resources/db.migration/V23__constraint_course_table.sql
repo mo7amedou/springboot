@@ -1,0 +1,1 @@
+ALTER TABLE course ADD CONSTRAINT pk_course PRIMARY KEY (idc);

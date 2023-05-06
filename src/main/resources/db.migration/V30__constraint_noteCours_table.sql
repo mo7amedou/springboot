@@ -1,0 +1,1 @@
+ALTER TABLE noteCours ADD CONSTRAINT pk_noteCours PRIMARY KEY (idnc);

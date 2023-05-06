@@ -1,0 +1,1 @@
+ALTER TABLE dayCours ADD CONSTRAINT pk_dayCours PRIMARY KEY (idd);

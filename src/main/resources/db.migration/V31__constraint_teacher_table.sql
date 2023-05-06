@@ -1,0 +1,1 @@
+ALTER TABLE teacher ADD CONSTRAINT pk_teacher PRIMARY KEY (idt);

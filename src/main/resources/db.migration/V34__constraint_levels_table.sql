@@ -1,0 +1,1 @@
+ALTER TABLE levels ADD CONSTRAINT pk_levels PRIMARY KEY (idl);

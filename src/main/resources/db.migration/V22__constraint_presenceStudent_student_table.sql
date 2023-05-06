@@ -1,0 +1,1 @@
+ALTER TABLE student ADD CONSTRAINT fk_student_presenceStudent FOREIGN KEY (idprs) REFERENCES presenceStudent(idprs);

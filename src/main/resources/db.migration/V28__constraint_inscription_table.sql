@@ -1,0 +1,1 @@
+ALTER TABLE inscription ADD CONSTRAINT pk_inscription PRIMARY KEY (idi);

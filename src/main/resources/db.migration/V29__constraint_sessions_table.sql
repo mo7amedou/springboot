@@ -1,0 +1,1 @@
+ALTER TABLE sessions ADD CONSTRAINT pk_sessions PRIMARY KEY (idss);

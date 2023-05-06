@@ -1,0 +1,1 @@
+ALTER TABLE presenceTeacher ADD CONSTRAINT pk_presenceTeacher PRIMARY KEY (idprp);

@@ -1,0 +1,2 @@
+ALTER TABLE teacher ADD CONSTRAINT fk_teacher_paymentTeacher FOREIGN KEY (idpay) REFERENCES paymentTeacher(idpay);
+ALTER TABLE teacher ADD CONSTRAINT fk_teacher_presenceTeacher FOREIGN KEY (idprp) REFERENCES presenceTeacher(idprp);

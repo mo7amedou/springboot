@@ -1,0 +1,1 @@
+ALTER TABLE paymentTeacher ADD CONSTRAINT pk_paymentTeacher PRIMARY KEY (idpay);

@@ -1,0 +1,1 @@
+ALTER TABLE typeCours ADD CONSTRAINT pk_typeCours PRIMARY KEY (idty);
